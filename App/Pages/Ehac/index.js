@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     elevation: 24,
   },
   gambartop: {
-    height: 230,
+    height: 250,
     width: width,
   },
   gambar1: {

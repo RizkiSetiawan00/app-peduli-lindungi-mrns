@@ -63,7 +63,7 @@ const styles = StyleSheet.create({
     backgroundColor: "white",
   },
   content: {
-    marginTop: 200,
+    marginTop: 80,
     alignItems: "center",
     justifyContent: "center",
     flexDirection: "row",
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
     height: 30,
     left: 38,
     right: 228,
-    top: 670,
+    top: 570,
     bottom: 131,
     fontFamily: "Lato-Regular",
     fontStyle: "normal",

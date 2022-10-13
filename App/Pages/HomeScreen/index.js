@@ -307,7 +307,7 @@ const styles = StyleSheet.create({
     resizeMode: "contain",
     height: 80,
     marginTop: 5,
-    marginLeft: -35,
+    marginLeft: -32,
     flex: 0,
   },
   panah: {
